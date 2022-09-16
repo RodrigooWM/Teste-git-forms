@@ -22,3 +22,7 @@ Passo 5
 
 Passo 6
 -git push -u origin main
+
+Criando uma nova ramificação (branch)
+Passo 1
+- git checkout -b "galho"
