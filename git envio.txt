@@ -1,0 +1,24 @@
+Passo 1
+- gitbash é o terminal do git.
+- o comando "git --version" mostra a versão do git que estamos utilizando.
+- para localizarmos a pasta com o gitbash, devemos escrever da seguinte forma:
+$ "cd\e:\aulas vscode\rocketseat\forms html" - também podemos escrever linha por linha (cd e:, cd "aulas vscode"...)
+Obs.: Se houver espaço entre o nome da pasta, é recomendado usar aspas duplas.
+
+Passo 2
+- para criar um diretório git (anonimo dentro da pasta em que os seus arquivos estão), é necessário usar o comando: "git init". Feito isso, é só seguir os passos abaixo:
+-git init (ignore esse passo se já tiver feito)
+
+Passo 3
+-git add README.md (nome do arquivo e sua extensão)
+
+Passo 4
+-git commit -m "first commit" (comentário que ficará atrelado ao upload)
+Nesse momento pode haver um erro e o git vai solicitar que adicione um nome ou e-mail. Ele dará as instruções. Após isso, funcionará norlmente
+
+Passo 5
+-git branch -M main
+-git remote add origin https://github.com/RodrigooWM/Teste-git-forms.git
+
+Passo 6
+-git push -u origin main
