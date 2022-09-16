@@ -33,4 +33,4 @@ Passo 2
 Passo 1
 -Basta digitar: git marge (e o nome da branch)
 
-Para clonar arquivo do github, basta acessar o repositório, clicar em "code" e copiar o link. Após isso, é só indicar no gitbash a pasta em que deseja o arquivo e digitar "git clone e o link do arquivo."
+Para clonar arquivo do github, basta acessar o repositório, clicar em "code" e copiar o link. Após isso, é só indicar no gitbash a pasta em que deseja o arquivo e digitar "git clone e o link do arquivo." Também é possível atualizar, caso o arquivo seja alterado lá no original. Basta comentar no próprio github, acessar a pasta em que o arquivo está e usar o comando "git pull".
