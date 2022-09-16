@@ -25,4 +25,6 @@ Passo 6
 
 Criando uma nova ramificação (branch)
 Passo 1
-- git checkout -b "galho"
+- git checkout -b "galho" (após executar esse comando, você estará na nova branch. É só enviar os novos arquivos ou alterações feitas)
+Passo 2 
+- git checkout main (para voltar para a branch principal)
