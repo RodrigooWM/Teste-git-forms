@@ -28,3 +28,7 @@ Passo 1
 - git checkout -b "galho" (após executar esse comando, você estará na nova branch. É só enviar os novos arquivos ou alterações feitas)
 Passo 2 
 - git checkout main (para voltar para a branch principal)
+
+"Marge" para juntar as duas branches.
+Passo 1
+-Basta digitar: git marge (e o nome da branch)
