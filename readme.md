@@ -1,1 +1,1 @@
-Esse arquivo foi criado com a finalidade de testar as funcionalidades do github. Alterado.
+Esse arquivo foi criado com a finalidade de testar as funcionalidades do github. Alterado.  
